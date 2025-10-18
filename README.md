@@ -90,8 +90,8 @@ abukiks/
 
 **John Carl Abucay**  
 _Site Reliability Engineer | Cloud & DevOps Builder_  
-📧 [abukiks.x@gmail.com](mailto:abukiks.x@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/abukiks-x) | [GitHub](https://github.com/xJohnlrac)
+📧 [abukiks.x@gmail.com](mailto:hello@abukiks.com)  
+🔗 [LinkedIn](https://linkedin.com/in/abukiksv0) | [GitHub](https://github.com/abukiksv0)
 
 ---
 
