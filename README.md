@@ -106,5 +106,5 @@ _Site Reliability Engineer | Cloud & DevOps Builder_
 <p align="center">
   <a href="https://github.com/abukiksv0"><img src="https://img.shields.io/badge/Org-abukiks-black?style=for-the-badge&logo=github"></a>
   <a href="https://abukiks.com"><img src="https://img.shields.io/badge/Website-abukiks.com-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:hello@abukiks.com"><img src="https://img.shields.io/badge/Email-abukiksv0%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:hello@abukiks.com"><img src="https://img.shields.io/badge/Email-hello%40abukiks.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
